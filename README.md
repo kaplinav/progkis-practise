@@ -13,6 +13,7 @@ Contents:
 
 
 make --- to make binary file "prover". 
+
 make clean - to deleting files, created after command "make".
 
 -----------------------------------------------------------------------------
