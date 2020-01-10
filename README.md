@@ -12,8 +12,8 @@ Contents:
 0. Building.
 
 
-make --- to make binary file "prover" 
-make clean - to deleting files, created after command "make"
+make --- to make binary file "prover". 
+make clean - to deleting files, created after command "make".
 
 -----------------------------------------------------------------------------
 
